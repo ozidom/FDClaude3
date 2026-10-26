@@ -1,43 +1,120 @@
 <!doctype html>
-<html>
+<html lang="en">
 <head>
-    <title>Dungeon Bard Ascii</title>
-    <script src="jquery-1.12.1.min.js" ></script>
-    <script src="rot.min.js"></script>
-    <script src="jquery-ui.min.js" ></script>
-    <script src="jquery-ui.min.js" ></script>
-    <script src="player.js" ></script>
-    <script src="monster.js" ></script>
-    <script src="Songs.js" ></script>
-
-    <link rel="stylesheet" type="text/css" href="jquery-ui.min.css">
-    <link rel="stylesheet" type="text/css" href="jquery-ui.structure.min.css">
-    <link rel="stylesheet" type="text/css" href="jquery-ui.theme.css">
-    <link rel="stylesheet" type="text/css" href="7drl1.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Fast Dungeons</title>
+    <link rel="stylesheet" href="css/theme.css">
+    <link rel="stylesheet" href="css/layout.css">
+    <link rel="stylesheet" href="css/sheet.css">
+    <link rel="stylesheet" href="css/map.css">
+    <link rel="stylesheet" href="css/clash.css">
 </head>
-<body class="background">
-<!-- Start of SimpleHitCounter Code -->
-<div align="right"><a href="http://www.simplehitcounter.com" target="_blank"><img src="http://simplehitcounter.com/hit.php?uid=2042673&f=16777215&b=0" border="0" height="18" width="83" alt="web counter"></a><br><a href="http://www.simplehitcounter.com" target="_blank" style="text-decoration:none;"></a></div>
-<!-- End of SimpleHitCounter Code -->
-    <div class="subText">
-    DUNGEON BARD ASCII by @Dungeonbard<br/>
-    ================================<br/>
-        <div>
-            <a href="howtoplay.html" target="_blank">How to play (Opens in new window)</a>
-            <br/>
-            <a href="comments.html" target="_blank">Send Comments (Opens in new window)</a>  
-        <div>
-    </div>
-    <div id="gameDisplay"></div>
-    <div id="gameText" class="gameText" title="Song/Riddle"><form><input type="text" id="search" name="q"><button type="submit">Find</button></form></div>
-    <div id="gameSubText" class="subText"></div>
-    <div id="gameIntroText" class="subText"></div>
-    <div>
-    <!--<a class="twitter-timeline" href="https://twitter.com/dungeonbard" data-widget-id="709205827161227264">dungeonbardascii news</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>-->
+<body>
+    <header class="topbar">
+        <h1>Fast Dungeons</h1>
+        <span id="status" class="status"></span>
+        <div class="topbar-actions">
+            <button id="btn-help" type="button" title="Quick rules reference">Rules</button>
+            <button id="btn-theme" type="button" title="Switch light/dark theme">Theme</button>
+        </div>
+    </header>
 
+    <main id="screen"></main>
 
+    <section id="log-panel" class="log-panel" aria-label="Adventure Log">
+        <header>
+            <h2>Adventure Log</h2>
+            <span class="muted small ui">every roll, tagged with its rule</span>
+            <span class="spacer"></span>
+            <button id="btn-log-toggle" class="small" type="button">Hide</button>
+        </header>
+        <div id="log" aria-live="polite"></div>
+    </section>
+
+    <div id="toasts" aria-hidden="true"></div>
+    <div id="modal-root"></div>
+
+    <!-- Classic scripts in a fixed load order (no ES modules: they are blocked on file://) -->
+    <!-- core -->
+    <script src="js/core/namespace.js"></script>
+    <script src="js/core/enums.js"></script>
+    <script src="js/core/config.js"></script>
+    <script src="js/core/dice.js"></script>
+    <script src="js/core/eventBus.js"></script>
+    <script src="js/core/gameLog.js"></script>
+    <script src="js/core/saveStore.js"></script>
+    <!-- data -->
+    <script src="js/data/attributes.js"></script>
+    <script src="js/data/races.js"></script>
+    <script src="js/data/classes.js"></script>
+    <script src="js/data/equipment.js"></script>
+    <script src="js/data/weapons.js"></script>
+    <script src="js/data/armour.js"></script>
+    <script src="js/data/spells.js"></script>
+    <script src="js/data/turnUndead.js"></script>
+    <script src="js/data/monsters.js"></script>
+    <script src="js/data/reaction.js"></script>
+    <script src="js/data/morale.js"></script>
+    <script src="js/data/treasure.js"></script>
+    <script src="js/data/wanderingMonsters.js"></script>
+    <script src="js/data/emotions.js"></script>
+    <!-- dungeons -->
+    <script src="js/dungeons/dungeonRegistry.js"></script>
+    <script src="js/dungeons/sunkenCrypt.js"></script>
+    <!-- model -->
+    <script src="js/model/Inventory.js"></script>
+    <script src="js/model/Character.js"></script>
+    <script src="js/model/Monster.js"></script>
+    <script src="js/model/Door.js"></script>
+    <script src="js/model/Corridor.js"></script>
+    <script src="js/model/Room.js"></script>
+    <script src="js/model/Dungeon.js"></script>
+    <script src="js/model/Clock.js"></script>
+    <script src="js/model/CombatState.js"></script>
+    <script src="js/model/GameState.js"></script>
+    <!-- rules -->
+    <script src="js/rules/CheckResult.js"></script>
+    <script src="js/rules/AttributeRules.js"></script>
+    <script src="js/rules/CharacterFactory.js"></script>
+    <script src="js/rules/SavingThrowRules.js"></script>
+    <script src="js/rules/EquipmentRules.js"></script>
+    <script src="js/rules/LightRules.js"></script>
+    <script src="js/rules/EncumbranceRules.js"></script>
+    <script src="js/rules/DoorRules.js"></script>
+    <script src="js/rules/SearchAndTrapRules.js"></script>
+    <script src="js/rules/WanderingMonsterRules.js"></script>
+    <script src="js/rules/ParleyRules.js"></script>
+    <script src="js/rules/MoraleRules.js"></script>
+    <script src="js/rules/EncounterRules.js"></script>
+    <script src="js/rules/MonsterAI.js"></script>
+    <script src="js/rules/CombatEngine.js"></script>
+    <script src="js/rules/SpellRules.js"></script>
+    <script src="js/rules/TurnUndeadRules.js"></script>
+    <script src="js/rules/ExperienceRules.js"></script>
+    <script src="js/rules/TownRules.js"></script>
+    <script src="js/rules/ExplorationRules.js"></script>
+    <!-- ui -->
+    <script src="js/ui/components/Dom.js"></script>
+    <script src="js/ui/components/Modal.js"></script>
+    <script src="js/ui/components/ToastView.js"></script>
+    <script src="js/ui/components/LogView.js"></script>
+    <script src="js/ui/components/ActionBar.js"></script>
+    <script src="js/ui/components/CharacterSheetView.js"></script>
+    <script src="js/ui/components/ClockView.js"></script>
+    <script src="js/ui/components/MapView.js"></script>
+    <script src="js/ui/components/ClashBoardView.js"></script>
+    <script src="js/ui/ScreenManager.js"></script>
+    <script src="js/ui/screens/TitleScreen.js"></script>
+    <script src="js/ui/screens/CreationScreen.js"></script>
+    <script src="js/ui/screens/ShoppeScreen.js"></script>
+    <script src="js/ui/screens/SpellPrepScreen.js"></script>
+    <script src="js/ui/screens/ExplorationScreen.js"></script>
+    <script src="js/ui/screens/EncounterScreen.js"></script>
+    <script src="js/ui/screens/CombatScreen.js"></script>
+    <script src="js/ui/screens/TownScreen.js"></script>
+    <script src="js/ui/screens/GameOverScreen.js"></script>
+    <!-- bootstrap -->
+    <script src="js/main.js"></script>
 </body>
-<script src="7drl1.js"></script>
 </html>
-

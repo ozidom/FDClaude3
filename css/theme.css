@@ -1,0 +1,73 @@
+/* Colour tokens. Dark "torchlight" is the default; [data-theme="light"] switches. */
+:root {
+    --bg: #14100c;
+    --bg-glow: #2b1d10;
+    --panel: #1e1813;
+    --panel-2: #2a221a;
+    --panel-3: #352a1f;
+    --border: #4b3b29;
+    --border-strong: #7a5f3e;
+    --text: #ece2d2;
+    --muted: #a9977f;
+    --accent: #e8a33d;
+    --accent-strong: #f5c56b;
+    --accent-ink: #1b1209;
+    --danger: #e8705e;
+    --good: #9acb75;
+    --info: #86b6dc;
+    --roll: #c6a9ee;
+    --rule: #d6b98a;
+    --narrate: #efe3c8;
+    --zone-party: #1f2c1c;
+    --zone-centre: #2e2716;
+    --zone-enemy: #351a16;
+    --token-pc: #e8a33d;
+    --token-monster: #b8443a;
+    --token-out: #5a4c3d;
+    --map-room: #3a2e21;
+    --map-room-current: #6b4d22;
+    --map-line: #a48660;
+    --hp: #c9483a;
+    --hp-bg: #3b1f1a;
+    --light: #f5c56b;
+    --shadow: rgba(0, 0, 0, 0.55);
+    --font-body: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+    --font-ui: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    --font-mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+    color-scheme: dark;
+}
+
+:root[data-theme="light"] {
+    --bg: #f3ece0;
+    --bg-glow: #fbf3e2;
+    --panel: #fffaf1;
+    --panel-2: #f4ead9;
+    --panel-3: #eadcc5;
+    --border: #d4c1a1;
+    --border-strong: #a8875a;
+    --text: #2b2117;
+    --muted: #6d5c47;
+    --accent: #b46d12;
+    --accent-strong: #8f530a;
+    --accent-ink: #fffaf1;
+    --danger: #b23b2a;
+    --good: #3f7d22;
+    --info: #2e6a9a;
+    --roll: #6c44a8;
+    --rule: #7a5a26;
+    --narrate: #3a2c1c;
+    --zone-party: #e1ecd8;
+    --zone-centre: #f1e6c9;
+    --zone-enemy: #f3d9d2;
+    --token-pc: #c47a12;
+    --token-monster: #b23b2a;
+    --token-out: #b9aa94;
+    --map-room: #efe2cb;
+    --map-room-current: #f2c46d;
+    --map-line: #8a6a40;
+    --hp: #b23b2a;
+    --hp-bg: #f1d6cf;
+    --light: #c47a12;
+    --shadow: rgba(60, 40, 10, 0.18);
+    color-scheme: light;
+}

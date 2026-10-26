@@ -1,0 +1,1777 @@
+﻿v0.79  by Dom Millar 2026
+THE RADiCAL VERSION
+Fast Paced old school role playing adventures in the underdark
+
+
+Fast Dungeons
+Dedicated to Cath,
+Who stood beside me when the tunnels grew dark, carried more than her share, and helped me find courage when mine ran low.This game is about entering dangerous places together, trusting the person beside you, and finding a way home. I am walking through a tough dungeon and would not be here without you. 
+This is for you, All my love, Dominic
+0.         WHAT? WHO and WHY
+What is it?
+Fast Dungeon is an old school fantasy dungeon crawl roleplaying adventure game. It is a super-fast version of the most world's most popular table top role playing game. It's heavily inspired and influenced by board games as well as traditional Table Top Role Playing Games (TTRPG).
+I am convinced you can have a full game at around 25 pages. I wanted something that is
+* Fast
+* Easy to learn
+* Easy to teach
+* Complete
+* Small, so everyone at the table has a copy
+* Playable by complete beginners
+* Flexible enough for experienced players and Dungeon Masters to play at higher levels (in later versions of these rules) of character experience 
+* Compatible in spirit with old-school dungeon crawling
+* Great at providing a role playing experience
+Who can play Fast Dungeons
+Anyone can play Fast Dungeons. Even if you have not played before. If you have little experience  playingTTRPG’s check out pages 1–12 and APPENDIX E - Introduction to Fast Dungeons and GMing .
+If you have played before these rules are really simple and will be easy for you to pick up and use for any OSR adventure or any adventures you write yourself.
+HOW A GAME WORKS
+1. The Game Master (GM) Describes the Adventure
+2. Players buy any additional equipment and the party is now considered to be at the opening room of the adventure.
+3. Repeat the following until the party has completed the adventure, left the dungeon or the party has all died:
+   1. The GM describes the Room.
+   2. The players say what their adventurers do.
+   3. If the result is obvious, it happens. If uncertain, use a rule or make a roll.
+   4. Exploration usually advances the Dungeon Clock.
+   5. Creatures may talk, flee, bargain or fight.
+FAST DUNGEONS USES FOUR THINGS
+At the heart of the game are just four components (see rule 4). If you understand how these work, you’ll have no issues playing the game.
+* MAP — Where are we? The GM holds the full map; the players draw what they have explored.
+* CHARACTER SHEET — Who am I and what can I do?
+* CLOCK — How much dungeon time has passed?
+* CLASH — Where is everyone during a fight?
+PREP and SETUP 
+Preparing: The GM reads the adventure and prepares the dungeon map, encounters and treasure. Players create or choose their adventurers.
+Setup: Place the player map, Clock and Clash Board on the table, and keep the GM’s map hidden. Check equipment, choose the party’s marching order and place its marker at the dungeon entrance.
+I.GETTING TO THE DUNGEON
+Before our players can get to the dungeon they need 2 complete 2 tasks. They need to listen to the introduction of the adventure and they then have an opportunity to purchase additional items at the Shoppe before starting the adventure.
+1a. The Introduction
+ The GM reads or tells the adventure's introduction: where the dungeon is, why the adventurers are going there, and what is rumoured to lie inside. Players may ask questions, and the GM answers with what the adventurers would reasonably know. Optionally, give each player one rumour; some are true, some are not, and only the dungeon will tell.
+1b. The Shoppe
+ Each adventurer spends their starting gold (3d6 × 10 gp) on equipment from Tables 5, 6 and 7. Anything not bought now must be found inside, so remember light, rope and a way to carry treasure home. Unspent gold may be carried into the dungeon, but every 100 coins takes up a Slot .
+II.ENTER THE DUNGEON
+2. Enter the Dungeon
+A game begins with the party at the entrance to a dungeon and ends when the surviving party leaves it. Unlike other TTRPG’s Fast Dungeons fast tracks the game so that after a quick introduction to the adventure and an opportunity to purchase equipment the game starts at the entrance to the dungeon.
+2b Types of dungeons - A dungeon does not have to be an underground ruin or monster lair. In Fast Dungeons, any dangerous location made up of interconnected Rooms and Corridors can be a dungeon, including a tower, a ship with linked decks and cabins, a fortress, or even a chain of small islands connected by boats, bridges or causeways.
+3. The Game Master, Players and When to Roll
+3a. The Game Master
+One player is the Game Master (GM) or Referee. The GM  describes the dungeon, controls monsters and NPCs, tracks hidden information, applies the rules and makes impartial rulings when the rules do not provide an answer.
+3b. The Players
+Each other player controls an adventurer. Players decide what their adventurers say and do. The GM determines how the dungeon responds.
+3c. Anything Can Be Attempted
+Players are never restricted to actions printed on their character sheets. They may search, listen, negotiate, hide, climb, break, deceive, flee, improvise or attempt anything reasonable. The GM decides how an unusual action is resolved.
+3d. WHEN SHOULD THE GM ROLL?
+If something obviously works, it works.
+If something obviously cannot work, explain why.
+Roll only when the result is genuinely uncertain and failure would matter.
+4.Game Components in Fast Dungeons
+4a.The Dungeon Map
+The dungeon is a point crawl. Important locations are Rooms, and the routes between them are Corridors. The map represents meaningful choices rather than every five or ten feet of dungeon floor. There are actually two versions of the map in Fast Dungeons: the DMs Map and the Players Map. 
+The DMs map is the full map with everything represented on it including all rooms, corridors, secret doors etc…. 
+The Players map is the map maintained by the players and it is the current representation of the dungeon they have explored so far. So at the start of the game the player's map will likely have the opening room and nothing else on it.
+4b. The Character Sheet
+ Each adventurer is recorded on a Character Sheet: attributes and modifiers, Armour Class, Hit Points, Saving Throws, Attack Bonus, Slots carried, spells and XP. When a rule or table says SHEET, the effect is recorded or resolved there.
+4c. The Clock
+ Time is tracked on the Clock: Dungeon Turns elapsed, light source durations, rest, and wandering monster checks. When a rule or table says CLOCK, mark it there.
+4d. The Clash Board
+
+
+  
+
+Party
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Center
+	  
+
+Enemy
+	
+
+When a fight begins, position matters: who is in reach, who is in the way, and who can be shot. Fast Dungeons resolves this on the Clash Board, and this is the default for every rule, table and Action in this book. When a rule or table says CLASH, it means “resolve this using positions,” whichever surface you are using. Throughout the Appendix, the “Where?” column tells you which of the four surfaces (SHEET, MAP, CLOCK, CLASH) is used.
+The Clash Board is three zones in a row — Party, Centre and Enemy. Adventurers begin in the Party zone and Monster zone.The center begins empty unless surprise or circumstances say otherwise. Once combat begins, any creature may move into any zone, spending movement as it goes (rule 57). A melee attack requires the attacker and target to be in the same zone; Reach weapons may also strike the adjacent zone, and missile weapons attack across zones as listed in Table 6.
+III. THE ADVENTURER
+Personal Information
+5a.Name - The adventurers full name - they can also of course have nicknames and pseudonyms
+5b.Age - their age in years. A player decides on their age to be somewhere between 16 and 40.
+5c. Background  - a player may have a background. Traditionally in Fast dungeons this is no more than a few sentences.
+5e. Starting gold is 3d6 × 10 gp
+Attributes
+6. Strength
+Strength represents physical power. It affects melee attacks, damage and actions such as forcing doors, lifting, breaking and bending objects.
+7. Intelligence — INT
+Intelligence represents learning, memory and reasoning. It affects languages and the ability to understand writing, magic and obscure information.
+8. Wisdom — WIS
+Wisdom represents perception, intuition and judgement. It assists with recognising danger and resisting certain magical effects.
+9. Dexterity — DEX
+Dexterity represents speed, coordination and reflexes. It affects missile attacks, Armour Class and other actions requiring agility or precision.
+10. Constitution — CON
+The Constitution represents health, endurance and toughness. It affects Hit Points and the adventurer's ability to withstand physical hardship.
+11. Charisma — CHA
+Charisma represents leadership, personality and influence. It affects monster reactions, negotiations, retainers and dealings with intelligent creatures.
+12. Generating Attributes
+Generate the six attributes using the following method: roll 3d6 in order for STR, INT, WIS, DEX, CON and CHA. 
+13. Attribute Modifiers and Checks
+Attribute modifiers: 3 = −3; 4–5 = −2; 6–8 = −1; 9–12 = 0; 13–15 = +1; 16–17 = +2; 18 = +3. When an uncertain action depends mainly upon an attribute and no specific rule covers it, the GM may call for an Attribute Check by rolling d20 equal to or below the relevant score, modified if circumstances demand.
+Example: Dorn tries to edge along a crumbling ledge in plate armour, so the GM calls for a DEX check. With DEX 12 he needs to roll 12 or less on d20; he rolls 15, keeps his footing, but drops his sword into the darkness below.
+Hit Points, Armour Class and Saving Throws
+14. Hit Points
+Hit Points measure an adventurer's ability to survive injury. Damage reduces Hit Points. Healing restores lost Hit Points but cannot normally increase them beyond the character's maximum.
+15. Armour Class
+Armour Class measures how difficult a creature is to hit. Armour, shields, Dexterity and magical effects determine AC. 
+Optional: B/X Armour Class values may be used directly or converted using the Armour Class table adopted by Fast Dungeons.
+16. Saving Throws
+Saving Throws represent resistance to extraordinary dangers including poison, death, paralysis, breath weapons, wands and spells. Saving Throw values are determined by class and level. Monsters make savings throws as fighters. A saving throw is required when an attack, spell, trap, or other effect specifically calls for one. Fast Dungeons uses five categories:
+* Death Ray or Poison: Resisting a deadly effect or poison. For example, surviving a venomous snakebite or a poisoned needle trap.
+* Magic Wands: Resisting an effect from a wand. For example, avoiding a wand of cold’s freezing blast.
+* Paralysis or Turn to Stone: Resisting immobilisation or petrification. For example, resisting a ghoul’s paralysing touch or a basilisk’s petrifying gaze.
+* Dragon Breath: Avoiding or reducing a breath weapon’s effects. For example, taking half damage from a dragon’s fiery breath.
+* Spells, Rods, or Staves: Resisting other magical effects. For example, resisting Charm Person or taking half damage from Fire Ball.
+Roll 1d20: a result equal to or greater than the relevant saving throw value succeeds. The effect’s description determines what success or failure means and takes precedence when it specifies a particular saving throw category.
+Alignment and Languages
+17. Alignment
+Characters and intelligent creatures may be Lawful, Neutral or Chaotic. Alignment describes allegiance to the great forces of order, balance and chaos and may affect magic, creatures and factions within a dungeon.
+18. Languages
+All adventurers know the languages granted by their race, class and Intelligence. 
+Optional: Alignment and additional languages follow normal B/X principles.
+Race
+19. Human
+Humans are adaptable and ambitious. They possess no special underground senses or racial limitations and may enter any available class.
+20. Dwarf
+Dwarves are hardy underground folk. They possess strong resistance to many magical and physical dangers and an instinct for identifying unusual stonework, construction and underground features.
+21. Elf
+Elves possess keen senses and an affinity with magic. They are particularly adept at noticing secret or concealed features and resist certain supernatural effects.
+22. Halfling
+Halflings are small, nimble and unobtrusive. Their size assists with hiding, missile combat and avoiding attacks from larger opponents.
+23. Races, Classes and B/X Race-as-Class Compatibility
+Fast Dungeons normally separates race and class. 
+Optional: When importing a B/X Dwarf, Elf or Halfling, its original race-as-class statistics may instead be used unchanged. Thus published B/X characters, NPCs and adventures remain usable without conversion.
+Class
+
+
+24. Fighter
+  
+
+
+The Fighter is the master of physical combat. Fighters may use all normal weapons, armour and shields and possess the strongest general fighting ability.
+25. Cleric
+  
+
+
+The Cleric is a holy warrior. Clerics may wear all armour, use only non-edged weapons, which in Fast Dungeons means the club, mace, staff and sling. Clerics can also turn undead (clerics use holy power to drive away or destroy undead)  and gain divine spells according to their level. Clerics do not get spells until 2nd level but can turn undead from level 1.
+
+
+26. Wizard — Magic-User
+  
+
+
+The Wizard is the Fast Dungeons name for the  Magic-User. Wizards cannot wear armour, have very restricted weapon choices (Wizards may use only the dagger and staff)  and gain increasingly powerful arcane spells as they rise in level.
+27. Thief
+  
+
+
+
+The Thief specialises in locks, traps, stealth, climbing and surprise attacks. Thieves may use all normal weapons but are restricted to light armour (leather or none) and use their Thief Skills according to level.
+Levels
+28. Level
+Level represents an adventurer's increasing experience and capability. Level determines Hit Points, attack capability, Saving Throws, class abilities, spells and other improvements.
+IV. DUNGEON EXPLORATION
+29. Dungeon Turns
+Dungeon exploration is measured in Dungeon Turns, each representing approximately ten minutes. Time matters because light burns, wandering monsters move and the dungeon changes while the party acts. The party normally takes one exploration action each Dungeon Turn, not one action per adventurer.
+30. The Dungeon Turn Procedure
+The standard dungeon turn procedure is:
+1. Describe — the GM describes the current Room and anything obvious.
+2. Choose — the party declares what it does and which adventurer leads the action.
+3. Resolve — apply the rules, or make a GM ruling if the result is uncertain.
+4. Update — move the Party Marker on the Map; mark searched Rooms, opened doors, treasure, hazards and other changes.
+5. Time — advance the Clock one Dungeon Turn; reduce light and other durations.
+6. The Dungeon Answers — every second Dungeon Turn, roll for Wandering Monsters (rule 45). Noise or delay may cause an additional roll.
+Moving through one normal Corridor, thoroughly searching a Room, resting, or another substantial action takes one Dungeon Turn. After five active Dungeon Turns the party should rest on the sixth (rule 44). If an encounter occurs, resolve it fully, then resume the procedure.
+31. Rooms and Corridors
+
+31a.Rooms. When the party enters a Room, the GM describes everything immediately obvious. The players decide what they do before hidden information is revealed.
+31b.Room Sizes
+Rooms have 3 general sizes in fast dungeons:
+* Small (size 1)
+* Meduim (size 2)
+* Large (size 3)
+31.c Beyond Large Rooms
+tbc
+31d.Corridors
+Moving through a Corridor to another Room normally consumes one Dungeon Turn. Corridors that are unusually long, difficult or obstructed may require additional turns.
+32. Distances
+Fast Dungeons uses a point-crawl map, so exact distances matter less than in other games. When a distance matters, including distances given in B/X adventures, convert it using Table 16. If an exact distance is important to the situation, such as a pit's depth or a spell's precise range, keep the original measurement.
+33. Discovering the Map
+The GM uses a complete dungeon map. The players’ map shows only discovered Rooms and Corridors. Draw or reveal these as the party explores. Mark visible but unexplored exits with a line ending in “?”; add the destination Room when reached. Secret Rooms and Corridors remain hidden until discovered. Move the Party Marker to show the party’s current Room.
+34. Marching Order
+The party establishes a marching order. Marching order determines who encounters doors, traps and monsters first and who is immediately able to fight when space is restricted.
+35. Doors
+Dungeon doors may be open, closed, stuck, locked, barred or secret. The party must decide how it approaches a door before knowing what lies beyond. Opened doors tend to swing shut unless spiked or wedged. Monsters native to the dungeon may open doors, including stuck ones, without a roll."
+36. Listening
+An adventurer may listen at a door or other barrier for signs of activity beyond it. Listening succeeds on a 1 on 1d6 (1–2 for Dwarves, Elves and Halflings). A Thief uses Hear Noise (Table 9).
+37. Forcing Doors
+Stuck doors may be forced with a STR Attribute Check (rule 13). A failed attempt consumes one Dungeon Turn and may trigger a Wandering Monster check. 
+38. Searching
+Players may search a Room, object or specific area. A thorough search normally costs one Dungeon Turn. If the players describe a method that would reasonably reveal something, it is found without a roll. A general search of an area with no specific method uses the chance listed for that feature, such as secret doors (rule 40).
+39. Traps
+Traps are dungeon hazards that may be detected through caution, investigation or appropriate abilities. Players may describe methods of avoiding or disarming traps instead of relying solely upon a die roll. When a character does something that could set off a trap, it triggers on 1–2 on 1d6 unless the adventure states otherwise 
+39a. Falls 
+Falls deal 1d6 damage per 10 feet (use Table 16 to judge distances on the point-crawl: a short drop 1d6, a serious fall 2d6–3d6). 
+39b. Poison
+Unless the adventure states otherwise, a failed Save vs Poison means death (see rule 66).
+40. Secret Doors
+Secret doors and passages remain hidden until discovered. Searching, clues and racial abilities may reveal secret doors or passages; the GM decides when they are discovered based on how the players search and any relevant abilities. A Dungeon Turn spent searching the right area reveals a secret door on a 1 on 1d6 (Elves 1–2, per Table 2).
+41. Light
+Adventurers unable to see in darkness require a light source. Each light source lasts for a limited number of Dungeon Turns. The GM tracks its remaining duration.
+41.a Infravision. Adventurers cannot see in the dark, whatever their race. They are not used to total darkness and dwarf and elf infravision does not work in fast dungeons.  Monsters native to the dungeon see well enough without light unless the adventure says otherwise. This rule overrides infravision on imported B/X characters
+41.b. Total darkness. Without light, the party can move only slowly and cannot search effectively. Attacks are made at −4, most visual actions automatically fail, and each Dungeon Turn in darkness triggers a Wandering Monster check. Characters may retrace a familiar route to seek safety.
+42. Encumbrance
+An adventurer may carry up to 10 + STR modifier Slots. Slot values for items and treasure are given in Tables 5, 6 and 14; worn armour costs no Slots. An adventurer over their limit is Encumbered: Corridors cost double Dungeon Turns and the adventurer cannot outrun pursuers. Every 100 coins counts as 1 Slot
+43. Exploration Movement
+A party's movement rate is determined by its slowest member and encumbrance. On the point-crawl this determines how many Dungeon Turns are required to traverse unusually long Corridors or other extended areas.
+43a. No Split Party. Unlike other TTRPG’s Fast Dungeons does not support splitting the party. The PC’s must stay together in one group.
+44. Rest
+After five Dungeon Turns of exploration, the party should spend one Dungeon Turn resting. If they continue without resting, the GM may apply exhaustion, penalties or other consequences appropriate to the situation.
+45. Wandering Monster Checks
+The GM normally checks for wandering monsters every two Dungeon Turns by rolling a d6. A result of 1 indicates an encounter unless the adventure specifies a different chance. Noise, delay or unusual actions may trigger additional checks. Table 17 contains a default list of wandering monsters but adventures will have their own list normally.
+V. ENCOUNTERS
+  
+
+46. Beginning an Encounter
+An encounter begins when the party becomes aware of monsters or NPCs. Do not assume that an encounter automatically becomes combat.
+47. Surprise
+When two groups meet unexpectedly, each side normally rolls a d6. A side is surprised on 1–2, subject to special abilities and circumstances. A surprised side may be unable to act before the other side.
+48. Encounter Distance
+When an encounter begins, the Referee chooses how close the two sides are from the Room, Corridor and surprise result:
+* Close (opening a door onto them, ambush, cramped Corridor): enemies may begin in Centre.
+* Normal (most encounters): use the standard setup (rule 4c).
+* Distant (spotted across a large Room, a long Corridor or a cavern): standard setup, but no one may enter Centre in the first round. Each side may shoot, cast, talk or flee before contact.
+48a, B/X Adventure distance: When a B/X adventure gives an encounter distance, use Table 16 to choose the closest starting zone on the Clash Board.
+49. Reaction
+When the attitude of encountered creatures is uncertain, make a 2d6 Reaction Roll, modified by Charisma and circumstances. The Reaction table determines whether the creature is hostile, uncertain, willing to talk or friendly.
+50. Parley and the Hidden Emotion Test
+What players say or offer matters more than dice; creatures must understand them (rule 18).
+50a. Hidden Emotion Test
+When the party speaks with an important NPC or intelligent creature, the GM may use the Hidden Emotion Test.
+1. Choose one player as the Reader.
+2. The Reader secretly rolls 1d6 and shows only the GM based on table 18.
+3. The Reader delivers the creature’s opening words using that emotion.
+4. The other players secretly guess the emotion.
+5. Reveal the result.
+If half or more guess correctly, the creature reveals useful concealed information or makes a meaningful concession. If everyone guesses correctly, it may reveal its deepest secret or offer major assistance. If nobody guesses correctly, it may withhold information, mislead, flee, make demands or escalate the encounter.
+Optional: Groups that prefer conventional roleplaying may ignore the Hidden Emotion Test and resolve conversations entirely through dialogue, Reaction Rolls and GM judgement.
+51. Monster Motivation
+Monsters have goals beyond attacking adventurers. They may protect territory, seek food, demand payment, defend allies, avoid danger, bargain, flee or pursue some other objective indicated by the adventure or GM.
+52. Morale
+Monsters and NPCs do not automatically fight to the death. When required, roll 2d6 against the creature's Morale score. Failure means the creature attempts to flee, surrender, withdraw or otherwise cease fighting as appropriate.
+52a. Morale Timing
+A Morale Check is normally made when a side suffers its first casualty and again when approximately half its members have been defeated. The GM may call for Morale at other moments when circumstances radically change.
+VI. SPELLS
+  
+
+53 Magic and Spells
+53a. Spellcasters
+Clerics and Wizards cast spells. The number they can cast is shown on Table 8 as spell slots. Each slot holds one spell of that level. A used slot is marked on the Character Sheet and stays used until spells are recovered (rule 62g).
+53b. Wizard Spellbooks
+A Wizard learns spells from a spellbook. A new Wizard's book holds Read Magic and one other Level 1 spell chosen by the player. Each new level adds one spell of a level the Wizard can cast. More spells can be copied from scrolls or captured spellbooks between Delves. A Wizard without their spellbook cannot prepare spells.
+53c. Cleric Prayers
+A Cleric needs no book. Their faith grants access to every Cleric spell of a level they can cast.
+53d. Preparing Spells
+Before entering the dungeon, each caster chooses which spells fill their slots. The same spell may fill more than one slot. Prepared spells are recorded on the Character Sheet.
+53e. Casting
+Casting a spell is the caster’s Action for the round and must be declared before Initiative (rule 63). A caster may not move in a round they cast. The target must be visible and within range.
+53f. Range, Duration and Saves
+* Range is measured in zones on the Clash Board (Table 16).
+* Duration is instant, a number of Combat Rounds, or a number of Dungeon Turns marked on the Clock. A B/X "turn" equals one Dungeon Turn.
+* An unwilling target may make a Save vs Spells unless the spell says otherwise. Magic Missile and Sleep allow no save.
+53g. Recovering Spells
+Used spells return after a full night's rest followed by one Dungeon Turn of study (Wizard) or prayer (Cleric). Resting inside the dungeon is possible but dangerous: the GM makes three Wandering Monster checks during the night, and light sources keep burning.
+53h. Scrolls
+A Wizard can cast a Wizard spell from a scroll after reading it with Read Magic. A Cleric can cast a Cleric spell from a scroll without it. Casting from a scroll uses no slot, and the scroll is then crossed off.
+VII. COMBAT
+54. Combat
+Combat is divided into Combat Rounds of approximately ten seconds. Continue resolving rounds until the combat ends through victory, surrender, negotiation, retreat or some other outcome.
+55. Initiative 
+Each side rolls 1d6 at the beginning of the round. The higher result acts first. Ties: both sides act at once; apply all results at the end of the round.
+56. Combat Round Sequence
+Every Combat Round follows the same recurring steps:
+1. Morale (56a)
+2. Movement (57)
+3. Missile (59)
+4. Spells and Turning Undead (60)
+5. Meelee (61)
+6. Surrender, Withdrawal, Retreat and Pursuit
+57. Morale  If a side suffered its first casualty this or has now lost half its number, the GM checks its Morale (rule 52).
+58. Combat Movement
+A creature Moves on its own turn. Moving into an adjacent zone costs 1 point of movement. Monsters move up to their Move value in zones (Table 11). Adventurers move up to 2 zones per round, or 1 zone if Encumbered. A creature may move into any zone, including the opposing side's, but position must still make fictional sense.
+58a. Melee Range. A melee attack requires the attacker and target to be in the same zone. Missile and Reach weapons (spear, pole arm) may also attack an enemy in an adjacent zone.
+58b. Blocking. A creature cannot move through a zone containing a standing enemy; it must stop in that zone.
+58c. Engaged. A creature in the same zone as an enemy is Engaged. An Engaged creature may only leave that zone by Withdrawal or Retreat (rule 65).
+58d. Breaking Through. If no enemy blocks the way, creatures may advance into the opposing side's zone. 
+58e. Leaving the Board
+A creature that Moves out of its own zone leaves the Clash Board and the fight. Enemies may pursue (rule 65). Due to the time difference between combat and exploring players and monsters who leave the board cannot take an action until combat has finished.. If every creature on a side has left, died, surrendered or stopped fighting, combat ends and the Dungeon Turn procedure resumes.
+59. Attacking
+To attack, roll 1d20 + Attack Bonus + modifiers. If the total equals or exceeds the target's Armour Class, the attack hits. Adventurers' Attack Bonus is given in Table 3. A monster's Attack Bonus equals its Hit Dice − 1 (minimum +0); fractional Hit Dice count as 0. As PC’s levels 1-3 have no attack bonus the simple combat equation determines a hit.
+For PC’s it is 
+If d20 + modifiers > monster AC
+For monsters if is 
+If d20 + AB + modifiers > monster AC
+Monster Level 
+	Attack Bonus (AB)
+	Up to 1 HD
+	+0
+	Over 1 to 2 HD
+	+1
+	Over 2 to 3 HD
+	+2
+	4 HD and over
+	+3
+	If a hit has occurred check 59a.
+59a. Damage
+A successful attack inflicts the damage listed for the weapon, monster, spell or effect. Subtract damage from the target's Hit Points. If a creature reaches 0 they have died and cannot be recovered. It's time to talk to the DM about a new character see rule 66.
+59b. Optional Maximum Damage. An optional rule is to allow all damage rolls to be replaced with  maximum damage.
+60. Missile Attacks
+  
+
+
+Dexterity normally modifies missile attacks. Range, cover and firing into melee are resolved according to the weapon, distance and circumstances. Missile attacks are not possible in:
+* Small Rooms
+* The same zone (ie if a player and monster are in the same zone neither can attack each other with a missile weapon).
+61. Magic
+A spellcaster may cast an available spell during the Magic step of the Combat Sequence. Spell range, targets, duration and effects are given in the Spell table.
+61a.Declare spells. Any caster who intends to Cast this round says so now, naming the spell and target (rule 63).
+61 b Optional spell ranges and durations. These follow B/X; convert ranges using Table 16.
+61 c. Casting Under Threat
+Spellcasting must normally be declared before Initiative. A spellcaster who is successfully attacked or otherwise disrupted before casting will lose the spell. Spells are declared in step 1 of the Combat Sequence and resolved on the caster’s turn
+61 d. Turning Undead
+A Cleric may attempt to Turn Undead instead of making a normal attack. Resolve the attempt using the Cleric's level and the undead creature's Hit Dice using the Turning Undead reference.
+62. Melee Attacks
+Melee attacks require the attacker and target to be in the same zone, or an adjacent zone for Reach weapons (rule 57a). Strength normally modifies melee attacks and melee damage.
+63. Surrender
+Players may surrender whenever they choose. For monsters, roll 2d6 against morale after their side’s first death and when half are incapacitated. Exceeding morale means fleeing or surrendering. The referee determines whether opponents accept surrender and what terms they demand.
+64. Withdrawal and Retreat
+An Engaged creature may leave its zone in one of two ways: Withdraw (64a) and Retreat (64b).
+64a. Withdraw. move one zone back toward its own side and nothing more this round. Enemies get no free attack. Creatures not in the Center leave the board.
+64b. Retreat. Retreat: move at full movement in any direction. Each enemy Engaged with it may make one free melee attack as it leaves.
+65. Pusuit. Enemies may pursue, with relative speed, encumbrance, dropped treasure, doors, obstacles and monster motivation determining whether escape succeeds.
+VIII. Returning to town, Death, Recovery and Levels
+66. Returning to Town
+The players can return to town. To return to town the PC’s must return to the first room of the 
+While in town they can:
+* Healing. Each full day of rest restores 1d3 HP. A full week of rest restores all HP. A Cleric’s healing spells work as normal. If a party is badly damaged it is an acceptable option to return to town for a week before entering the dungeon.
+* Buying and Selling. Buy anything on Tables 5–7 at the listed price. Sell recovered treasure for its listed value; sell unwanted equipment for half price. Gems and jewellery are sold at the value the GM assigned when found.
+* Copying Spells. A Wizard may copy a spell from a captured spellbook or scroll into their own book. It takes one week and 100 gp of inks per spell level. A scroll copied this way is used up.
+* Replacing a Spellbook. A Wizard who lost their spellbook may rewrite the spells they know from memory: one week and 100 gp per spell level, for each spell.
+* Rumours. Before the next Delve, each adventurer who spends a day asking around learns one rumour from the adventure’s rumour list. The GM rolls 1d6 in secret: on 1–4 it is true, on 5–6 it is false or twisted. Only the dungeon will tell. Rumours are not available at the start of an adventure.
+* Respawn a new PC
+Recovering Spells. A night’s rest in town recovers all spell slots without the Wandering Monster checks of rule 53g. 
+67.Death and Recovery
+An adventurer reduced to 0 Hit Points is dead and cannot be recovered in this version of the rules*. Healing magic may restore lost Hit Points during a delve; extended natural recovery occurs between delves.
+*Later versions of this game for higher level characters contain resurrection spells.
+66a. New PCs respawn
+A character can respawn a new PC when the players return to town. see
+67. Experience
+Experience is awarded after the party escapes the dungeon. The following are the key rules for Treasure:
+* Treasure successfully brought out awards 1 XP per 1 gp of value.
+*  Defeated monsters award 10 XP per Hit Die (minimum 5 XP)
+68. Ending the Delve
+The delve ends when the party exits the dungeon. Surviving adventurers keep the treasure they successfully carried out, receive Experience, retain any lasting consequences of the expedition and may advance in level. Anything left inside remains part of the dungeon.
+X. ADVANCED ADVENTURING
+The following sections contain specific elements of more advanced adventure in Fast Dungeons
+Planes of Existence
+71. Levelling Up
+Experience is awarded when the party leaves the dungeon (rule 67). An adventurer whose XP reaches the next row of their class table (Table 3) gains that level immediately:
+1. Hit Points. Roll one more Hit Die for the class, add the CON modifier (minimum 1), and add the result to maximum HP.
+2. Attack Bonus and Saving Throws. Copy the new values from Tables 3 and 4.
+3. Spells. A Cleric gains the spell slots shown for the new level. A Wizard gains the slots shown and adds one new spell of a level they can cast to their spellbook (rule 53b).
+4. Thief Skills. Copy the new row of Table 9.
+An adventurer cannot gain more than one level in a single Delve. Any XP beyond one point short of the following level is lost.
+72. Downtime
+Between Delves the party spends days in town. Each of the following is a downtime activity; an adventurer may do as many as they have days for.
+73. Planes
+In Fast Dungeons, the planes are deeper layers of the dungeon itself, stacked beneath one another like floors no map-maker ever finished. At the top lie the Stone Levels, the ordinary dungeon of torchlight, traps and tunnels. Below them, the Elemental Depths churn with raw fire, water, earth and air. Deeper still, the Astral Gloom drifts with dream, memory and the restless dead. At the very bottom wait the Outer Halls, where gods and demons keep dungeons of their own. The further down you go, the thinner reality gets, yet every plane is still rooms and corridors, just stranger.
+
+
+APPENDIX A - TABLES
+TABLE 1 — CHARACTER CREATION
+Step
+	Object
+	Rule
+	Where?
+	How It Works in the Game
+	1
+	Attributes
+	Roll 3d6 in order: STR, INT, WIS, DEX, CON, CHA
+	SHEET
+	Record each score and modifier on the Character Sheet.
+	2
+	Race
+	Choose Human, Dwarf, Elf or Halfling
+	SHEET / BOTH
+	Record Race abilities. Some Race abilities affect searching the Map or position on the Clash Board.
+	3
+	Class
+	Choose Fighter, Cleric, Wizard or Thief
+	SHEET / BOTH
+	Determines HP, attacks, Saves and special abilities used on the Board.
+	4
+	Level
+	New adventurers normally begin at Level 1
+	SHEET
+	Record Level. Only Levels 1–3 exist in this version.
+	5
+	Hit Points
+	Roll Class Hit Die + CON modifier
+	SHEET
+	Record current and maximum HP. Damage on the Clash Board reduces current HP. Minimum 1 HP.
+	6
+	Armour Class
+	Base AC 10 + armour + shield + DEX
+	SHEET
+	Attack rolls on the Clash Board are made against this number.
+	7
+	Saving Throws
+	Copy from Saving Throw Table
+	SHEET
+	Used when traps, spells, monsters or hazards affect the adventurer.
+	8
+	Equipment
+	Buy or choose starting equipment
+	SHEET / BOTH
+	Record carried items. Items may affect Map, Clock or Clash Board.
+	9
+	Weapons
+	Choose permitted weapons
+	SHEET / CLASH
+	Record weapon damage and range. Used when attacking on the Clash Board.
+	10
+	Armour
+	Equip permitted armour
+	SHEET
+	Changes recorded AC and may affect Encumbrance.
+	11
+	Spells
+	Record spells if the Class can cast them
+	SHEET / BOTH
+	Mark available spells; resolve their effects on the Board.
+	12
+	Formation
+	Choose Party Front or Party Rear
+	CLASH
+	Place the adventurer miniature in that zone before entering the dungeon.
+	13
+	XP
+	Begin at 0 XP unless the Adventure says otherwise
+	SHEET
+	Increase after a successful Delve.
+	14
+	Enter Dungeon
+	Place Party Marker on Entrance Room
+	MAP
+	The game begins.
+	Character Creation Notes
+* Attribute Modifiers (rule 13): 3 = −3; 4–5 = −2; 6–8 = −1; 9–12 = +0; 13–15 = +1; 16–17 = +2; 18 = +3.
+* Starting Gold: each new adventurer begins with 3d6 × 10 gp and buys equipment (Tables 5–7) before entering the dungeon.
+* Carrying Capacity (rule 42): 10 + STR modifier Slots; every 100 coins counts as 1 Slot.
+* Arms & Armour by Class: Fighter — any weapon, armour and shield. Cleric — blunt weapons (club, mace, staff, and sling; any armour and shield. Thief — any normal weapon; leather armour only; no shield. Wizard — dagger or staff only; no armour or shield.
+TABLE 2 — RACES
+Race
+	Core Ability
+	Additional Ability
+	Where?
+	Class Restriction
+	Board / Sheet Effect
+	Human
+	Adaptable
+	May choose any Class
+	SHEET
+	None
+	The Human relies on Class and equipment.
+	Dwarf
+	Dungeon craft and  detecting Stonework
+	Detect unusual stonework on 1–2 on d6 when searching
+	SHEET / MAP
+	Cleric, Thief and Fighter
+	May reveal concealed stone features or Corridors on the Map.
+	Elf
+	Keen senses
+	Detect secret doors on 1–2 on d6 when searching; immune to ghoul paralysis
+	SHEET / MAP
+	Cleric, Wizard and Fighter
+	May reveal secret Room exits or Corridors. Record immunity on Character Sheet.
+	Halfling
+	Small and stealthy
+	+1 missile attacks; +2 AC against larger-than-human attackers
+	SHEET / CLASH
+	Cleric, Thief and Fighter
+	Apply attack bonus to missile attacks from Front or Rear. Record conditional AC bonus on Sheet.
+	TABLE 3 — CLASS & LEVELS 1–3
+Fighter
+Level
+	XP
+	Hit Dice
+	Attack Bonus
+	Class Ability
+	Where?
+	Game Effect
+	1
+	0
+	1d8
+	+1
+	Arms & Armour
+	SHEET / CLASH
+	May use any normal weapon, armour or shield.
+	2
+	2,000
+	2d8
+	+2
+	Veteran
+	SHEET / CLASH
+	Improved HP and attack bonus.
+	3
+	4,000
+	3d8
+	+3
+	Warrior
+	SHEET / CLASH
+	Improved HP and attack bonus.
+	Cleric
+Level
+	XP
+	Hit Dice
+	Attack Bonus
+	Spells / Ability
+	Where?
+	Game Effect
+	1
+	0
+	1d6
+	+0
+	—
+	SHEET / CLASH
+	May Turn Undead. Uses Cleric arms and armour.
+	2
+	1,500
+	2d6
+	+1
+	1 × L1
+	SHEET / BOTH
+	Gains one Level 1 Cleric spell.
+	3
+	3,000
+	3d6
+	+1
+	2 × L1
+	SHEET / BOTH
+	May prepare/cast two Level 1 Cleric spells.
+	Wizard
+Level
+	XP
+	Hit Dice
+	Attack Bonus
+	Spells / Ability
+	Where?
+	Game Effect
+	1
+	0
+	1d4
+	+0
+	1 × L1
+	SHEET / BOTH
+	May cast one Level 1 spell.
+	2
+	2,500
+	2d4
+	+0
+	2 × L1
+	SHEET / BOTH
+	Two Level 1 spells available.
+	3
+	5,000
+	3d4
+	+1
+	2 × L1, 1 × L2
+	SHEET / BOTH
+	Gains access to Level 2 Wizard spells.
+	Thief
+Level
+	XP
+	Hit Dice
+	Attack Bonus
+	Class Ability
+	Where?
+	Game Effect
+	1
+	0
+	1d4
+	+0
+	Thief Skills, Backstab
+	SHEET / BOTH
+	Uses Thief Skills on Map and Clash Board.
+	2
+	1,200
+	2d4
+	+1
+	Improved Skills
+	SHEET / BOTH
+	Increase skills using Table 9.
+	3
+	2,400
+	3d4
+	+1
+	Improved Skills
+	SHEET / BOTH
+	Increase skills using Table 9.
+	
+
+TABLE 4 — SAVING THROWS
+Roll d20 equal to or higher than the target number. Record the five values on the Character Sheet so this table is not normally needed during play.
+Class
+	Level
+	Death / Poison
+	Wands
+	Paralysis / Stone
+	Breath
+	Spells
+	Where?
+	Game Effect
+	Fighter
+	1–3
+	12
+	13
+	14
+	15
+	16
+	SHEET / BOTH
+	Roll when a Board effect requires the relevant Save.
+	Cleric
+	1–3
+	11
+	12
+	14
+	16
+	15
+	SHEET / BOTH
+	Roll when a Board effect requires the relevant Save.
+	Wizard
+	1–3
+	13
+	14
+	13
+	16
+	15
+	SHEET / BOTH
+	Roll when a Board effect requires the relevant Save.
+	Thief
+	1–3
+	13
+	14
+	13
+	16
+	15
+	SHEET / BOTH
+	Roll when a Board effect requires the relevant Save.
+	
+
+TABLE 5 — EQUIPMENT
+Item
+	Cost
+	Slots
+	Where?
+	How It Changes the Game
+	Backpack
+	5 gp
+	—
+	SHEET
+	Allows carried items to be organised; does not increase maximum Slots.
+	Sack
+	1 gp
+	0
+	SHEET
+	Holds loose treasure. When filled, counts as 1 Slot.
+	Large Sack
+	2 gp
+	0
+	SHEET
+	Holds more treasure; filled sack counts as 2 Slots.
+	Rope, 50'
+	1 gp
+	1
+	SHEET / MAP
+	May cross, descend or climb Map hazards. A good rope solution may remove the need for a roll.
+	10' Pole
+	1 gp
+	2
+	SHEET / MAP
+	Tests floors, pits and suspicious objects from safety. May reveal a trap before a miniature enters danger.
+	Iron Spikes, 12
+	1 gp
+	1
+	SHEET / MAP
+	Jam doors, secure ropes or block Corridors. Mark blocked doors/routes on the Map if necessary.
+	Hammer
+	2 gp
+	1
+	SHEET / MAP
+	Drives spikes or breaks small objects. Loud use may trigger a Wandering Monster check.
+	Crowbar
+	2 gp
+	1
+	SHEET / MAP
+	Grants an advantage or bonus when levering doors, lids or stonework.
+	Grappling Hook
+	1 gp
+	1
+	SHEET / MAP
+	Used with rope to overcome vertical Map obstacles.
+	Tinderbox
+	3 gp
+	0
+	SHEET / CLOCK
+	Lights torches, lanterns or fires.
+	Torch
+	1 gp / 6
+	1 per 6
+	SHEET / CLOCK
+	One torch provides light for 6 Dungeon Turns. Mark its start/end on the Clock.
+	Lantern
+	10 gp
+	1
+	SHEET / CLOCK
+	Provides controlled light while oil remains.
+	Oil Flask
+	2 gp
+	1
+	SHEET / CLOCK / CLASH
+	Fuels a lantern for 24 Dungeon Turns or may be thrown/ignited as a situational attack.
+	Waterskin
+	1 gp
+	1
+	SHEET
+	Holds water. Important when an Adventure tracks thirst or requires liquid.
+	Rations, 7 days
+	5 gp
+	1
+	SHEET
+	Used when an Adventure extends beyond normal Delve assumptions.
+	Chalk
+	1 gp
+	0
+	SHEET / MAP
+	Mark Rooms, doors or Corridors. Physical marks may help navigation.
+	Mirror, small
+	5 gp
+	0
+	SHEET / MAP
+	Look around corners or inspect dangerous areas without entering them.
+	Bell
+	1 gp
+	0
+	SHEET / MAP
+	Can rig alarms; may also create noise and attract creatures.
+	Holy Symbol
+	25 gp
+	0
+	SHEET / CLASH
+	Required for a Cleric to Turn Undead.
+	Holy Water
+	25 gp
+	1
+	SHEET / CLASH
+	Thrown or applied against appropriate undead; typically deals 1d8 damage.
+	Thieves' Tools
+	25 gp
+	1
+	SHEET / MAP
+	Required for a Thief to pick locks or remove complex traps normally.
+	Wooden Stakes
+	1 gp
+	1
+	SHEET / MAP
+	Secure doors, objects or hazards; special use against appropriate monsters.
+	Small Chest
+	10 gp
+	2
+	SHEET
+	Carries valuable objects securely but increases Encumbrance.
+	Shovel
+	3 gp
+	2
+	SHEET / MAP
+	Dig, clear rubble or uncover buried features. Such work usually advances the Clock.
+	
+
+TABLE 6 — WEAPONS
+Weapon
+	Cost
+	Damage
+	Slots
+	 Range
+	Where?
+	Board Effect
+	Dagger
+	3 gp
+	1d4
+	0
+	1, 2(If thrown)
+	SHEET / CLASH
+	Melee in same zone; may be thrown at an enemy up to 2 zones away.
+	Club
+	—
+	1d4
+	1
+	1
+	SHEET / CLASH
+	Standard melee attack (same zone).
+	Staff
+	2 gp
+	1d4
+	2
+	1
+	SHEET / CLASH
+	Two-handed basic melee weapon (same zone).
+	Hand Axe
+	4 gp
+	1d6
+	1
+	1, 2(If thrown)
+	SHEET / CLASH
+	Melee in same zone; may be thrown at an enemy up to 2 zones away.
+	Mace
+	5 gp
+	1d6
+	1
+	1
+	SHEET / CLASH
+	Standard melee attack (same zone).. Cleric Compatible.
+	Short Sword
+	7 gp
+	1d6
+	1
+	1
+	SHEET / CLASH
+	Standard melee attack (same zone).
+	Spear
+	3 gp
+	1d6
+	2
+	1, 2(If thrown)
+	SHEET / CLASH
+	Reach: may attack an enemy in the same or an adjacent zone. A character in Party Front may strike enemies in Centre without entering it
+	Sword
+	10 gp
+	1d8
+	1
+	1
+	SHEET / CLASH
+	Standard melee attack (same zone).
+	Battle Axe
+	7 gp
+	1d8
+	2
+	1
+	SHEET / CLASH
+	Melee (same zone). Two-handed unless otherwise ruled.
+	Two-Handed Sword
+	10 gp
+	1d10
+	2
+	1
+	SHEET / CLASH
+	Powerful two-handed melee weapon (same zone); no shield while wielded.
+	Pole Arm
+	7 gp
+	1d10
+	3
+	1
+	SHEET / CLASH
+	Reach: may attack an enemy in the same or an adjacent zone; cumbersome in cramped Rooms.
+	Sling
+	2 gp
+	1d4
+	1
+	2
+	SHEET / CLASH
+	Missile: may attack an enemy up to 3 zones away if line of sight exists
+	Short Bow
+	25 gp
+	1d6
+	2
+	3
+	SHEET / CLASH
+	Missile: may attack an enemy up to 3 zones away unless blocked by circumstances.
+	Long Bow
+	40 gp
+	1d6
+	2
+	6*
+	SHEET / CLASH
+	Long missile: may attack anywhere on the Clash Board with line of sight.
+	Crossbow
+	30 gp
+	1d6
+	2
+	2
+	SHEET / CLASH
+	Long missile: may attack anywhere on the Clash Board; normally requires a round to reload after firing.
+	*Long Bows are capable of hitting targets beyond a range of 3. Apply a cumulative -1 to to a maximum of range 6.  
+TABLE 7 — ARMOUR
+Armour
+	Cost
+	AC
+	Shield?
+	Where?
+	Game Effect
+	None
+	—
+	10
+	Yes
+	SHEET
+	Record AC 10 + DEX modifier.
+	Leather
+	20 gp
+	12
+	Yes
+	SHEET
+	Record AC 12 + DEX modifier.
+	Chain
+	40 gp
+	14
+	Yes
+	SHEET
+	Record AC 14 + permitted DEX modifier. Counts as heavy carried equipment if removed.
+	Plate
+	60 gp
+	16
+	Yes
+	SHEET
+	Record AC 16 + permitted modifiers. Heavy armour may affect movement under Encumbrance.
+	Shield
+	10 gp
+	+1 AC
+	—
+	SHEET / CLASH
+	Add +1 AC while equipped. Cannot normally use a two-handed weapon at the same time.
+	B/X Armour Conversion
+Fast Dungeons AC = 19 − B/X AC
+B/X AC
+	Fast Dungeons AC
+	9
+	10
+	7
+	12
+	5
+	14
+	3
+	16
+	2
+	17
+	0
+	19
+	TABLE 8 — SPELLS
+Spell Slots by Character Level
+Class Level
+	Cleric Level 1
+	Wizard Level 1
+	Wizard Level 2
+	1
+	—
+	1
+	—
+	2
+	1
+	2
+	—
+	3
+	2
+	2
+	1
+	Used spells are marked on the Character Sheet.
+Cleric Level 1 Spells
+Spell
+	Where?
+	Fast Dungeons Effect
+	Cure Light Wounds
+	SHEET
+	Restore 1d6+1 HP to a touched character; change current HP on Sheet.
+	Detect Evil
+	MAP / CLASH
+	GM indicates nearby supernatural evil or strongly evil intent where detectable.
+	Detect Magic
+	MAP / SHEET
+	Reveals magical objects, creatures or effects in the current Room.
+	Light
+	MAP / CLOCK
+	Creates light without using a torch. Mark duration against the Clock.
+	Protection from Evil
+	SHEET / CLASH
+	Target gains defensive benefits against appropriate enemies; record duration.
+	Purify Food and Water
+	SHEET
+	Makes contaminated food/water safe.
+	Remove Fear
+	SHEET
+	Ends or suppresses fear affecting a character.
+	Resist Cold
+	SHEET
+	Reduces damage/effects from cold; mark duration.
+	Wizard Level 1 Spells
+Spell
+	Where?
+	Fast Dungeons Effect
+	Charm Person
+	CLASH
+	A suitable humanoid may become friendly rather than hostile. Leave token in place and change its attitude.
+	Detect Magic
+	MAP / CLASH
+	Reveals magical effects or objects in the current Room/encounter.
+	Floating Disc
+	SHEET / MAP
+	Creates a magical carrier. Temporarily increases the party’s treasure/equipment carrying ability.
+	Hold Portal
+	MAP
+	Holds a door closed. Mark the affected door/Corridor if needed.
+	Light
+	MAP / CLOCK
+	Provides magical light. Record duration on the Clock.
+	Magic Missile
+	CLASH
+	Automatically hits a visible target in range for 1d6+1 damage.
+	Protection from Evil
+	SHEET / CLASH
+	Defensive magical protection; record duration.
+	Read Languages
+	SHEET / MAP
+	Allows the Wizard to understand an otherwise unreadable mundane text.
+	Read Magic
+	SHEET
+	Allows use/understanding of magical writing and scrolls.
+	Shield
+	SHEET / CLASH
+	Temporarily improves the Wizard’s AC. Record temporary AC on Sheet.
+	Sleep
+	CLASH
+	Puts eligible low-HD creatures to sleep. Remove or mark affected monster tokens.
+	Ventriloquism
+	MAP
+	Creates a false voice/sound in the current or nearby Room; may alter monster behaviour.
+	Wizard Level 2 Spells
+Spell
+	Where?
+	Fast Dungeons Effect
+	Continual Light
+	MAP
+	Creates persistent magical light in a Room or on an object.
+	Detect Evil
+	MAP / CLASH
+	Reveals nearby supernatural evil.
+	Detect Invisible
+	MAP / CLASH
+	Invisible creatures become detectable to the caster.
+	ESP
+	MAP / CLASH
+	Reads surface thoughts of nearby creatures where allowed.
+	Invisibility
+	SHEET / CLASH
+	Mark character Invisible; usually prevents normal targeting until broken.
+	Knock
+	MAP
+	Opens a locked, barred or magically held door or container.
+	Levitate
+	MAP / CLASH
+	Move vertically past pits/ledges or rise above some threats.
+	Locate Object
+	MAP
+	GM indicates direction toward a known object within spell range.
+	Mirror Image
+	SHEET / CLASH
+	Creates false copies; attacks may destroy images instead of harming caster.
+	Phantasmal Force
+	MAP / CLASH
+	Creates an illusion interpreted through the Board situation and GM ruling.
+	Web
+	CLASH / MAP
+	Blocks or restrains creatures in an area. Mark affected zone, doorway or Corridor.
+	Wizard Lock
+	MAP
+	Magically locks a door or portal. Mark it on the Dungeon Map.
+	
+
+TABLE 9 — THIEF SKILLS
+Skill
+	Level 1
+	Level 2
+	Level 3
+	Where?
+	How It Works
+	Open Locks
+	15%
+	20%
+	25%
+	SHEET / MAP
+	Opens a locked door or container. Success changes access on the Map.
+	Find/Remove Traps
+	10%
+	15%
+	20%
+	SHEET / MAP
+	Detects/removes mechanical traps in a Room or object.
+	Pick Pockets
+	20%
+	25%
+	30%
+	SHEET / CLASH
+	Removes a small item from an unaware creature if circumstances permit.
+	Move Silently
+	20%
+	25%
+	30%
+	SHEET / MAP
+	May avoid alerting creatures in the next Room or improve Surprise.
+	Climb Sheer Surfaces
+	87%
+	88%
+	89%
+	SHEET / MAP
+	Allows movement across otherwise inaccessible vertical Map features.
+	Hide in Shadows
+	10%
+	15%
+	20%
+	SHEET / CLASH
+	Hide when suitable shadows/cover exist; may enable Backstab.
+	Hear Noise
+	1–2/d6
+	1–2/d6
+	1–2/d6
+	SHEET / MAP
+	Listening may reveal creatures or activity in an adjacent Room.
+	Backstab
+	+4 / ×2
+	+4 / ×2
+	+4 / ×2
+	SHEET / CLASH
+	When striking an unaware enemy from an advantageous position, +4 to hit and double damage.
+	TABLE 10 — TURNING UNDEAD
+A Cleric presents a Holy Symbol and rolls 2d6 where a number is shown. T = automatically Turn. D = automatically destroy. — = cannot Turn at this Level.
+Cleric Level
+	Skeleton
+	Zombie
+	Ghoul
+	Wight
+	Wraith
+	1
+	7
+	9
+	11
+	—
+	—
+	2
+	T
+	7
+	9
+	11
+	—
+	3
+	D
+	T
+	7
+	9
+	11
+	Board Effect
+Result
+	Where?
+	Effect
+	Turned
+	CLASH / MAP
+	Roll 2d6 HD affected. Move Turned undead away from the party on the Clash Board. If they escape the Clash Board, continue their flight onto connected Rooms/Corridors if relevant.
+	Destroyed
+	CLASH
+	Remove destroyed undead tokens immediately.
+	TABLE 11 — MONSTERS
+
+
+Starter Level 1–3 dungeon set; not the complete monster catalogue.
+Monster
+	HD
+	AC
+	Move
+	Attack
+	Morale
+	Special
+	Board Behaviour
+	Giant Rat
+	½
+	12
+	3 
+	Bite 1d3
+	8
+	Disease if Adventure uses it
+	Often begins Enemy Front and rushes the Centre..
+	Kobold
+	½
+	12
+	2
+	Weapon 1d4
+	6
+	—
+	Prefers numbers, missiles and retreat.
+	Goblin
+	1−1
+	13
+	2
+	Weapon 1d6
+	7
+	—
+	Front fighters; Rear missile users where possible.
+	Bandit
+	1
+	12–14
+	2
+	Weapon 1d6
+	8
+	Variable gear
+	Place according to weapons carried.
+	Orc
+	1
+	13
+	2
+	Weapon 1d6
+	8
+	—
+	Usually begins Front and pushes into Centre aggressively.
+	Skeleton
+	1
+	13
+	2
+	Weapon 1d6
+	12
+	Undead
+	Never checks normal Morale.
+	Stirge
+	1
+	12
+	3
+	Attach 1d3
+	9
+	Drains blood after attaching
+	Can move rapidly from Enemy Rear to Centre; seeks unguarded targets.
+	Zombie
+	2
+	11
+	1
+	Slam 1d8
+	12
+	Always acts last
+	Slow advance; no normal Morale checks.
+	Giant Spider
+	2
+	12
+	3
+	Bite 1d6
+	7
+	Poison Save
+	May ambush from a Room feature and inflict Poison.
+	Giant Snake
+	2+2
+	12
+	2
+	Bite 1d6
+	8
+	Pack hunter
+	Rapidly closes; looks for a gap to reach Party Rear..
+	Ghoul
+	2*
+	13
+	3
+	2 claws/1 bite, 1d3 each
+	9
+	Paralysis
+	Successful attacks may force Paralysis Save.
+	Hobgoblin
+	1+1
+	13
+	2
+	Weapon 1d8
+	8
+	Disciplined
+	Holds Front formation longer than Goblins.
+	Bugbear
+	3+1
+	14
+	2
+	Weapon 1d8
+	9
+	Surprise 1–3/d6
+	Often begins closer due to effective ambush.
+	Wight
+	3*
+	14
+	2
+	Touch 1d4
+	12
+	Energy Drain; magic/silver weapons
+	Dangerous Level 3 foe. Normal weapons may fail to harm it.
+	Ogre
+	4+1
+	14
+	2
+	Club 1d10
+	10
+	Large
+	Usually holds Centre once engaged; very hard to get past.
+	Gelatinous Cube
+	4*
+	11
+	1
+	Touch 2d4
+	12
+	Paralysis
+	May occupy or block a Corridor/Room; difficult to bypass.
+	Trogladyte
+	2
+	14
+	2
+	2 claws + bite, 1d4 each
+	9
+	Stench; camouflage
+	Often hides or begins at Enemy Front; prefers ambush and cramped terrain
+	Monster to Character Sheet Interaction
+Monster Effect
+	Character Sheet Change
+	Hits
+	Reduce HP on the target Character Sheet.
+	Poisons
+	Roll the recorded Save; mark any resulting condition.
+	Paralyses
+	Mark the condition on the Character Sheet.
+	Drains levels
+	Alter Level/XP as stated by the effect.
+	Steals/destroys equipment
+	Remove the affected item from the Character Sheet.
+	TABLE 12 — REACTION
+Roll 2d6, modified by the party spokesperson’s CHA modifier and circumstances. A Reaction result changes monster behaviour, not its statistics.
+2d6
+	Reaction
+	Where?
+	What Happens on the Board
+	2 or less
+	Immediate attack
+	CLASH
+	Monsters advance/attack immediately when able.
+	3–5
+	Hostile
+	CLASH
+	Monsters threaten, refuse cooperation or may attack. Players can still react.
+	6–8
+	Uncertain
+	CLASH
+	Monsters hesitate. Parley, bribes or another Reaction roll may decide the encounter.
+	9–11
+	Talkative / favourable
+	CLASH
+	Monsters do not attack immediately and may bargain or exchange information.
+	12+
+	Friendly / helpful
+	CLASH / MAP
+	Monsters may assist, provide information, allow passage or form a temporary alliance.
+	TABLE 13 — MORALE
+Roll 2d6 when Morale is checked. If the roll is greater than the monster’s Morale, it fails.
+When to Check
+Trigger
+	Where?
+	Effect
+	First monster casualty
+	CLASH
+	Roll Morale unless the creature ignores Morale.
+	Half the group defeated
+	CLASH
+	Roll again.
+	Leader killed
+	CLASH
+	GM may require immediate check.
+	Terrifying magic/event
+	CLASH
+	GM may call for a check.
+	Escape route cut off
+	CLASH / MAP
+	May modify or prevent flight depending on creature.
+	Failed Morale Result
+Situation
+	Likely Result
+	Board Effect
+	Escape possible
+	Flee
+	Move tokens toward Enemy Rear and off Clash Board.
+	Escape difficult
+	Withdraw
+	Move away from Melee and seek a Corridor/exit.
+	Surrounded
+	Surrender
+	Stop attacking; leave tokens in position.
+	Intelligent monster
+	Bargain
+	Combat pauses and Reaction/Parley resumes.
+	Animal
+	Flee or cower
+	Attempts shortest escape route.
+	Morale is one of the main mechanisms that keeps combat fast.
+TABLE 14 — TREASURE
+Treasure matters only if it reaches the dungeon exit. Normally 1 gp of recovered treasure = 1 XP. Treasure abandoned inside the dungeon awards no treasure XP.
+Treasure Object
+	Typical Value
+	Slots
+	Where?
+	How It Works
+	Loose Coins
+	1 gp each
+	Every 100 coins counts as 1 Slot
+	SHEET
+	Record value and load. Converts to XP only when carried out.
+	Coin Sack
+	100–300 gp
+	1
+	SHEET
+	Adds treasure value and Encumbrance.
+	Heavy Coin Sack
+	300–600 gp
+	2
+	SHEET
+	Valuable but slows heavily loaded characters.
+	Gem
+	10–1,000+ gp
+	0
+	SHEET
+	High value with negligible Encumbrance.
+	Jewellery
+	100–3,000+ gp
+	0–1
+	SHEET
+	Record value; easily carried.
+	Silver Object
+	25–500 gp
+	1
+	SHEET
+	Treasure or potentially useful against certain monsters.
+	Golden Object
+	100–2,000 gp
+	1–2
+	SHEET
+	Valuable but may consume inventory Slots.
+	Art Object
+	Variable
+	1–3
+	SHEET
+	High value but potentially difficult to carry.
+	Treasure Chest
+	Variable
+	3+
+	SHEET / MAP
+	Party must decide who carries it; may severely affect pursuit.
+	Potion
+	Magic Item Table
+	0
+	SHEET
+	Record as a Magic Item.
+	Scroll
+	Magic Item Table
+	0
+	SHEET
+	Record spell/protection; usable later in the Delve.
+	Magic Weapon
+	Magic Item Table
+	Normal weapon Slots
+	SHEET / CLASH
+	Replace/add weapon entry and use its bonus in combat.
+	Magic Armour
+	Magic Item Table
+	Worn
+	SHEET
+	Change AC on Character Sheet.
+	Other Magic Item
+	Magic Item Table
+	As listed
+	BOTH
+	Record on Sheet; resolve effect on Board.
+	Map / Clue
+	Adventure
+	0
+	SHEET / MAP
+	May reveal a Room, Corridor, treasure location or other information.
+	TABLE 15 — MAGIC ITEMS
+Starter Level 1–3 selection. Magic item charges and uses are marked directly on the Character Sheet.
+Magic Item
+	Where?
+	Game Effect
+	Potion of Healing
+	SHEET
+	Drink to restore 1d6+1 HP; erase item after use.
+	Potion of Invisibility
+	SHEET / CLASH
+	Mark Invisible. Enemies cannot normally target the character until the effect ends or the character attacks.
+	Potion of Speed
+	SHEET / CLASH
+	Temporarily increase movement/action capability as stated by the effect.
+	Scroll of One Spell
+	SHEET / BOTH
+	Record its spell. When cast, resolve using Spell Table and cross off the scroll.
+	Weapon +1
+	SHEET / CLASH
+	Add +1 to attack and damage with that weapon.
+	Armour +1
+	SHEET
+	Increase worn armour AC by +1.
+	Shield +1
+	SHEET
+	Shield provides an additional magical +1 AC beyond its normal bonus.
+	Ring of Protection +1
+	SHEET
+	Add +1 AC and +1 to Saving Throws while worn.
+	Boots of Elvenkind
+	SHEET / MAP
+	Greatly reduce movement noise; improves Surprise/stealth when appropriate.
+	Rope of Climbing
+	SHEET / MAP
+	Moves/anchors itself on command; may automatically solve many climbing obstacles.
+	Bag of Holding
+	SHEET
+	Carries far more treasure while counting as only 1 Slot, subject to capacity.
+	Wand of Magic Detection
+	SHEET / MAP
+	Spend a charge to detect magic in the current Room.
+	Wand of Paralysis
+	SHEET / CLASH
+	Spend a charge; target Saves or is marked Paralysed.
+	Crystal Ball
+	SHEET / MAP
+	Allows limited remote observation as determined by the GM.
+	Gauntlets of Ogre Power
+	SHEET
+	Treat STR as exceptional for lifting, forcing and melee as defined by the item.
+	TABLE 16 —WANDERiNG MONSTERS (DEFAULT)
+Roll
+	Monster
+	Number
+	1
+	Giant Rats
+	2d4
+	2
+	Kobold Scouts
+	1d4
+	3
+	Gobiins
+	1d4
+	4
+	Skeletons
+	1d6
+	5
+	Bandits
+	1d8
+	6
+	Zombie
+	1d4
+	TABLE 17 - EMOTIONS
+Role
+	Fast Dungeons Interpretation
+	1
+	Angry
+	2
+	Afraid
+	3
+	Greedy
+	4
+	Desperate
+	5
+	Friendly
+	6
+	Deceptive
+	
+
+APPENDIX B - Legal
+This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.
+APPENDIX C - Thanks
+Thanks to the following : Inspiration: Tenkars Tavern. Contributors: Treb Playtesters: Caitlin, Rose, Aiden, Tayah, Eddie, Markus, Leah, Lucia, Luke
+APPENDIX D - AI
+Images used in this document have been produced using AI. I will be looking to replace with real hand drawn images at some later stage of development of this project.
+APPENDIX E - Introduction to GMing
+ UNDERSTANDING FAST DUNGEONS, OSR and the role of the GM
+Fast Dungeons is built on a system of D&D caller OSR. OSR stands for Old School Renaissance. It is a style of fantasy roleplaying inspired by the early versions of Dungeons & Dragons, with simple rules, dangerous adventures and lots of player choice.
+The Games Master (GM) describes the world, controls monsters and other characters, reveals what the adventurers can see, and makes fair rulings when the rules do not cover something.
+The players each control an adventurer. They decide where to go, what to say, what risks to take, and how to solve problems.
+A lot of OSR games like Fast Dungeons are built around the fantasy dungeon crawl: adventurers enter dangerous places such as ruins, caves, towers or underground lairs, explore rooms and passages, avoid traps, meet strange creatures, find treasure and try to get back out alive.
+The important idea is that the GM presents the situation, but the players decide what happens next.
+ADVICE FOR THE FIRST TIME GM
+If you have not run a game as GM (or need a reminder) here are 20 useful tips:
+* Describe, then ask “What do you do?” Give the players enough information to make a decision, then stop talking and let them act.
+* Do not plan the players’ solution. Prepare problems, creatures, locations and motives. Let the players decide how to deal with them.
+* Only roll when the outcome is uncertain and interesting. If opening an unlocked door is easy, it simply opens. If forcing a swollen dungeon door matters, then a roll might be appropriate.
+* Say “yes” to sensible ideas. If a player proposes something clever that should reasonably work, it can simply work. You do not need to protect the adventure from the players.
+* You are not playing against the players. Make monsters dangerous and consequences real, but be impartial. You control the opposition; you are not the opposition.
+* Monsters do not automatically attack. They can be frightened, greedy, confused, hungry, territorial, friendly or willing to bargain. Ask yourself, “What does this creature actually want?”
+* Use the rules when they help; make a quick ruling when they do not. Do not stop a fun game for ten minutes to search for an obscure rule. Make a reasonable decision and check it later.
+* Tell players what their characters would obviously know. Do not make the game difficult by withholding basic sensory information. A character standing beside a roaring waterfall knows it is loud and dangerous.
+* Give clues generously. Players cannot see what is in your notes. What seems obvious to you may be invisible to them. Important information should often have several ways to discover it.
+* Failure should usually change the situation rather than stop the game. A failed lock-picking attempt might cost time, make noise or attract guards rather than simply producing “nothing happens.”
+* Keep time moving. Dungeon turns, torches, wandering monsters and moving factions make exploration meaningful. If the players spend twenty minutes arguing in a dangerous dungeon, the dungeon should continue doing things.
+* Let enemies retreat and surrender. Most living creatures do not want to die. Morale is especially useful because it makes fights faster and makes monsters feel more believable.
+* Do not worry about voices or acting. Saying “the goblin seems terrified and asks you to leave” is perfectly good roleplaying. Funny accents are optional.
+* Ask players how they do things. “I search the room” can become “Where are you looking?” or “How are you checking the statue?” This creates the fiction from which rulings naturally follow.
+* Repeat important choices clearly. “There are two passages: one descends toward running water; the other has torchlight ahead.” Players should understand the decision they are making.
+* Do not rescue the players from every bad decision. Warn them about dangers their characters can perceive, but let choices have consequences. That is a large part of what makes dungeon exploration exciting.
+* Do not punish players for surprising you. If they avoid the fight you prepared by talking, sneaking or collapsing a bridge, that is successful play, not ruined preparation.
+* When unsure, favour the fictional situation. Ask: “What would reasonably happen here?” The answer is often better than searching for a special rule.
+* Keep combat moving. State whose turn it is, describe the immediate danger, resolve the action, describe the result, move on. You do not need elaborate narration after every attack.
+* Your mistakes do not matter very much. Every GM forgets rules and makes imperfect rulings. Make a decision, keep playing and adjust later if necessary.
+* Even for a relatively small set of rules like fast dungeons it is not important to remember all the rules. Just have a read through once for the 7 pages. That's a good start. Even the best GMs don’t know all the rules.
+LEARNING BY WATCHING
+One of the best ways to understand how to run a game as GM is to watch real games. While the following are not actual games of Fast Dungeons they OSR and are similar enough and will give you an idea of how a GM runs a game:
+
+
+Link
+	Content
+	Video
+	Welcome to the OSR! #-1 “Winter’s Daughter” — Old School Essentials Actual Play
+	Video
+	THAC0 Tuesday, Pt.1 | Old-School D&D Actual Play. 10 Feb 2021. English
+	Video
+	The Halls of Arden Vul Ep 01 — Old School Essentials Megadungeon | Very Dangerous.. You Go First. 5 Sep 2022.
+	APPENDIX F - Feedback
+Please provide feedback at dommillar@gmail.com. I am interested in all feedback include:
+* General thoughts on rules
+* Any feedback from any games you have run 
+* Ant conversion notes if you run any D&D adventures using these rules 
+* Adventures
+APPENDIX G - Versions
+* INitial Version (0.76e)
+* 0.77
+   * Removed Prime Requisite XP
+   * Extend Traps
+   * Extend Saving Throws for Monsters
+   * Hazard Damage
+   * Added poison rules
+   * FIxed the clash board to handle better movement and the new Centre zone
+   * Added Spell Section
+* 0.78
+   * Actions
+   * Remove BX Compatibility sections - this can be a separate doc
+   * Replaced AI images with real images
+   * Moved sample gameplay to Appendix
+APPENDIX H - Sample of play
+The following represents a short snippet of  a game. The party is made up of:
+* Dorn, Human Fighter 1. STR 15, INT 9, WIS 10, DEX 10, CON 14, CHA 8. AC 15, HP 8. Sword (1d8), chain, shield. Attack +2 including STR.
+* Elin, Human Cleric 1. STR 12, INT 10, WIS 15, DEX 9, CON 11, CHA 13. AC 15, HP 5. Mace (1d6), chain, shield, holy symbol. Turn Undead; party spokesperson (CHA +1).
+* Mara, Halfling Thief 1. STR 10, INT 12, WIS 9, DEX 16, CON 10, CHA 11. AC 14, HP 3. Short sword (1d6), sling (1d4, +1 halfling), leather, thieves' tools. Thief Skills; Backstab.
+* Orris, Elf Wizard 1. STR 8, INT 17, WIS 12, DEX 11, CON 9, CHA 10. AC 10, HP 2. Dagger (1d4), spellbook. Prepared: Magic Missile. Finds secret doors on 1–2.
+GM: Your torchlight reveals a stone corridor ending at a heavy wooden door. Black water trickles underneath it. What do you do?
+Mara: I'll listen at the door.
+GM: Good. Make your Hear Noise roll.
+[Mara rolls 1d6 and gets a 2. The Thief succeeds. Rule 36.]
+GM: You hear whispering on the other side. At least two creatures. One says, “Maybe humans go away.”
+Dorn: So they know we're here?
+Mara: Sounds like it. I don't want to kick the door down. Can I slowly open it?
+GM: Yes. You push it open.
+[The party has spent a substantial exploration action. The GM advances the CLOCK one Dungeon Turn. Rule 29a.]
+GM: The door opens into a small guardroom. Two goblins are crouched behind an overturned table. One has a spear; the other has a short bow pointed roughly in your direction. Neither attacks.
+[2 Goblins:
+* Goblin 1 — Spear AC 12; HP 4; HD 1−1; Attack +0; Damage 3 (spear); Morale 7. Small humanoid. Can attack with Reach as allowed by the weapon rules.
+* Goblin 2 — Crossbow AC 12; HP 4; HD 1−1; Attack +0; Damage 3 (crossbow); Morale 7. Small humanoid. Prefers to fire from behind Goblin 1.]
+[The GM makes a Reaction Roll because the goblins' attitude is uncertain: 2d6, modified by the party spokesperson's Charisma. Rule 49. The result is 8: uncertain.]
+GM: The goblin with the spear says, “You stay there. We stay here. Everyone remains extremely alive.”
+Dorn: Seems reasonable.
+Elin: I'll lower my mace. “We're not looking for trouble. We're looking for the old crypt.”
+GM: Let's use the Hidden Emotion Test.
+[Mara becomes the Reader. She secretly rolls a 2: AFRAID. The GM shows her the goblin's opening words.]
+Mara, nervously as the goblin: “Crypt? No. No crypt here. Definitely no dead humans walking around in armour.”
+Dorn: Afraid.
+Elin: Afraid.
+Orris: Deceptive.
+[Half the players guessed correctly. Rule 50a.]
+GM: The goblin lowers his spear slightly. “Fine. Skeletons came out of crypt yesterday. Ate nobody because skeletons do not eat. But very stabby.”
+Orris: I ask where the crypt is.
+GM: He points to another door. “There. We are guarding this door by standing very far away from it.”
+Dorn: I'll offer them five gold if they tell us anything else useful.
+GM: That's a good offer. They take it. One tells you there is a loose flagstone beside the crypt door that the skeletons never step on.
+Mara: That sounds interesting. I'll search it.
+[Searching takes one Dungeon Turn. Rule 38. The CLOCK advances again. Because this is the second Dungeon Turn, the GM also makes a Wandering Monster check. Rule 45. The roll indicates an encounter.]
+GM: Mara kneels beside the loose stone. Before you can lift it, the door behind the goblins crashes open.
+Three more goblins rush into the room.
+Their leader points at the party.
+“Humans! Kill them!”
+  
+
+Dorn: I suppose negotiations are over.
+GM: With these goblins, yes. Move to the Clash Board.
+[Dorn and Elin begin in PARTY FRONT. Mara and Orris are in PARTY REAR. Two attacking goblins begin in ENEMY FRONT and one archer in ENEMY REAR. The original two goblins dive behind their table and stay out of the fight.]
+Orris: I'm casting Magic Missile.
+GM: The missile hits automatically. Apply Magic Missile’s listed damage to the goblin and mark the spell as used. Orris cannot cast it again until he rests and prepares it again. Orris rolls a d6 and gets 4 for 5 points of damage to the Goblin 1.
+GM: Spell declared. Now Initiative.
+[Party rolls 5. Goblins roll 3. The party acts first. Rules 55–56.]
+Dorn: I charge the nearest goblin.
+[Dorn moves PARTY FRONT → CENTRE → ENEMY FRONT, using his 2 zones of movement. He is now engaged with the goblins there. He rolls d20 + Attack Bonus + STR modifier against the goblin's AC 13. He rolls 16 and hits.]
+Dorn: Sword damage.
+[He rolls 1d8 and deals 6 damage. The goblin falls. Rules 58–61.]
+GM: That's their first casualty, so the goblins make a Morale Check.
+[The GM rolls 2d6 against Goblin Morale 7 and gets 9. The goblins fail Morale. Rules 52–53.]
+GM: The remaining goblin looks at Dorn, looks at his dead friend, and immediately drops his weapon.
+The archer backs toward the door.
+“Perhaps,” he says, “we have misunderstood the situation.”
+Dorn: I lower my sword. “I'm willing to discuss that.”
+GM: Combat stops. We're back to talking.
+Mara: And I'm still interested in that flagstone.
+GM: Excellent. What do you do?
+[The game continues]
+APPENDIX I - Glossary
+Glossary
+Adventurer. A player character. The hero one player controls, as opposed to a monster or NPC controlled by the GM.
+Armour Class (AC). A number showing how hard a creature is to hit. Higher AC = harder to hit. An attack roll must equal or beat the target's AC to land.
+Attack Bonus. A number added to an attack roll (d20 + Attack Bonus vs. the target's AC). It improves with level and class.
+Attribute Check. A quick ruling for anything uncertain that isn't covered by a specific rule. Roll d20; if the result is equal to or under your relevant attribute score, you succeed.
+Backstab. A Thief's bonus for striking an unaware enemy from a good position: +4 to hit and double damage.
+Blocking. A creature cannot move through a zone containing a standing enemy. It must stop there.
+CLASH / Clash Board. The five-zone layout combat is played out on: Party Rear, Party Front, Centre, Enemy Front, Enemy Rear. When a rule says "CLASH," it happens here.
+CLOCK. Where time is tracked: Dungeon Turns elapsed, how long torches or lanterns have left, and when to check for wandering monsters.
+Corridor. The route connecting two Rooms on the dungeon map. Moving through one normally costs one Dungeon Turn.
+Delve. A single dungeon expedition, from entering to (hopefully) leaving alive. "Ending the Delve" means the party has exited.
+Dungeon Turn.  The basic unit of time while exploring, about ten in-game minutes. The party normally takes one meaningful action per Dungeon Turn, not one action per adventurer.
+Encumbered. What happens when an adventurer carries more than their Slot limit. Corridors take twice as long, and the adventurer can't outrun pursuers.
+Engaged A creature in the same zone as an enemy. An Engaged creature can only leave that zone by Withdrawal or Retreat (rule 65).
+Formation. Whether an adventurer starts in Party Front or Party Rear when a fight begins, based on marching order.
+Hidden Emotion Test. One player (the Reader) secretly rolls an emotion and delivers an NPC's line "in character" using it; everyone else guesses the emotion; how many guess correctly decides how much the NPC actually reveals.
+Hit Points (HP). How much damage an adventurer (or monster) can take before dying. Damage subtracts from HP; healing restores it.
+Initiative. A quick roll (1d6 per side) at the start of each Combat Round to decide who acts first.
+Level. How experienced an adventurer is. Higher level means more Hit Points, better attacks, and stronger class abilities.
+MAP — The point-crawl dungeon layout: Rooms connected by Corridors. When a rule says "MAP," something changes on this layout (a door opens, a secret passage is found, and so on).
+Marching Order — The sequence adventurers walk in. It decides who meets a door, trap, or monster first, and who's ready to fight if there's no room to spread out.
+Morale. Whether a monster or NPC keeps fighting. Checked after their side's first casualty (and again around the halfway point); rolling over their Morale score means they flee, surrender, or back off.
+Parley. Talking to a creature instead of fighting it. What the players actually say and offer matters, not just a die roll.
+Reaction Roll. A 2d6 roll used when a monster or NPC's attitude toward the party isn't obvious. The result ranges from immediate attack to friendly and helpful.
+GM. The person running the game: describing the dungeon, controlling monsters and NPCs, and making rulings. Called "GM" or "DM" in most other games.
+Room. A significant location on the dungeon map, as opposed to the Corridors connecting them.
+Saving Throw. A roll to resist something dangerous like poison, a trap, a spell, and so on. Each class/level has five Saving Throw numbers; you need to roll that number or higher on a d20 to succeed.
+SHEET / Character Sheet. Where an adventurer's attributes, AC, HP, Saving Throws, Slots, spells, and XP are recorded. When a rule says "SHEET," record or resolve it here.
+Slots. How much an adventurer can carry (10 + Strength modifier). Most items and every 100 coins take up 1 Slot; worn armour is free.
+Surprise. When two sides meet unexpectedly, each rolls 1d6; a result of 1–2 means that side is surprised and may not be able to act in the first round.
+Turning Undead. A Cleric's ability to drive off or destroy undead creatures using a Holy Symbol, instead of making a normal attack.
+Wandering Monster. A random encounter the GM checks for periodically (normally every two Dungeon Turns) while the party explores, rather than one placed in a specific Room.
+XP (Experience Points). Points earned mainly from treasure successfully carried out of the dungeon, plus a smaller amount for defeated monsters. Enough XP raises an adventurer's Level.
+Zones (Party Front, Centre, Enemy Front, etc.).  The five positions on the Clash Board. Most weapons need you in the Melee zone to attack in melee; missile and Reach weapons can hit across zones.
+APPENDIX N 
+These are the inspiration for me this game:
+Lord of the Rings (Books and Movies)
+	Dungeons and Dragons (All versions(
+	The Witcher (Book and TV Series)
+	The Dying Earth — Jack Vance
+	Fafhrd and the Gray Mouser — Fritz Leiber
+	Three Hearts and Three Lions — Poul Anderson 
+	Ghoemanghast Trilogy (Mervn Peake)
