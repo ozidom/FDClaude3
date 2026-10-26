@@ -1,0 +1,17 @@
+/* Player map (inline SVG). */
+.map-wrap { width: 100%; background: var(--panel-2); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+.map-wrap svg { display: block; width: 100%; height: auto; }
+.map-room rect { fill: var(--map-room); stroke: var(--map-line); stroke-width: 1.5; }
+.map-room.current rect { fill: var(--map-room-current); stroke: var(--accent-strong); stroke-width: 2.5; }
+.map-room text { fill: var(--text); font-family: var(--font-ui); font-size: 10px; text-anchor: middle; dominant-baseline: middle; pointer-events: none; }
+.map-room.entrance rect { stroke-dasharray: 4 2; }
+.map-line { stroke: var(--map-line); stroke-width: 2; fill: none; }
+.map-line.secret { stroke-dasharray: 3 3; }
+.map-line.unexplored { stroke-dasharray: 2 4; opacity: 0.8; }
+.map-q { fill: var(--accent); font-family: var(--font-ui); font-size: 12px; font-weight: 700; text-anchor: middle; dominant-baseline: middle; }
+.map-door { fill: var(--panel); stroke: var(--map-line); stroke-width: 1.5; }
+.map-door.locked, .map-door.stuck, .map-door.barred { fill: var(--danger); }
+.map-door.secured { fill: var(--info); }
+.map-trap { fill: var(--danger); font-family: var(--font-ui); font-size: 11px; font-weight: 700; text-anchor: middle; dominant-baseline: middle; }
+.map-marker { fill: var(--token-pc); stroke: var(--accent-ink); stroke-width: 1.5; }
+.map-legend { font-family: var(--font-ui); font-size: 0.72rem; color: var(--muted); margin-top: 0.35rem; }

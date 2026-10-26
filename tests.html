@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Fast Dungeons Tests</title>
+    <link rel="stylesheet" href="css/theme.css">
+    <link rel="stylesheet" href="css/layout.css">
+    <style>
+        .result { font-family: var(--font-mono); font-size: 0.85rem; padding: 0.15rem 0; }
+        .result.pass { color: var(--good); }
+        .result.fail { color: var(--danger); }
+        .suite-name { margin-top: 1rem; }
+        .summary { font-size: 1.3rem; }
+    </style>
+</head>
+<body>
+    <main id="screen">
+        <div class="panel">
+            <h1>Fast Dungeons: rules tests</h1>
+            <p class="muted">Seeded-dice unit tests for every FD.Rules service. No libraries. <a href="index.html">Back to the game</a></p>
+            <div id="summary" class="summary"></div>
+            <div id="results"></div>
+        </div>
+    </main>
+
+    <script src="js/core/namespace.js"></script>
+    <script src="js/core/enums.js"></script>
+    <script src="js/core/config.js"></script>
+    <script src="js/core/dice.js"></script>
+    <script src="js/core/eventBus.js"></script>
+    <script src="js/core/gameLog.js"></script>
+    <script src="js/core/saveStore.js"></script>
+    <script src="js/data/attributes.js"></script>
+    <script src="js/data/races.js"></script>
+    <script src="js/data/classes.js"></script>
+    <script src="js/data/equipment.js"></script>
+    <script src="js/data/weapons.js"></script>
+    <script src="js/data/armour.js"></script>
+    <script src="js/data/spells.js"></script>
+    <script src="js/data/turnUndead.js"></script>
+    <script src="js/data/monsters.js"></script>
+    <script src="js/data/reaction.js"></script>
+    <script src="js/data/morale.js"></script>
+    <script src="js/data/treasure.js"></script>
+    <script src="js/data/wanderingMonsters.js"></script>
+    <script src="js/data/emotions.js"></script>
+    <script src="js/dungeons/dungeonRegistry.js"></script>
+    <script src="js/dungeons/sunkenCrypt.js"></script>
+    <script src="js/model/Inventory.js"></script>
+    <script src="js/model/Character.js"></script>
+    <script src="js/model/Monster.js"></script>
+    <script src="js/model/Door.js"></script>
+    <script src="js/model/Corridor.js"></script>
+    <script src="js/model/Room.js"></script>
+    <script src="js/model/Dungeon.js"></script>
+    <script src="js/model/Clock.js"></script>
+    <script src="js/model/CombatState.js"></script>
+    <script src="js/model/GameState.js"></script>
+    <script src="js/rules/CheckResult.js"></script>
+    <script src="js/rules/AttributeRules.js"></script>
+    <script src="js/rules/CharacterFactory.js"></script>
+    <script src="js/rules/SavingThrowRules.js"></script>
+    <script src="js/rules/EquipmentRules.js"></script>
+    <script src="js/rules/LightRules.js"></script>
+    <script src="js/rules/EncumbranceRules.js"></script>
+    <script src="js/rules/DoorRules.js"></script>
+    <script src="js/rules/SearchAndTrapRules.js"></script>
+    <script src="js/rules/WanderingMonsterRules.js"></script>
+    <script src="js/rules/ParleyRules.js"></script>
+    <script src="js/rules/MoraleRules.js"></script>
+    <script src="js/rules/EncounterRules.js"></script>
+    <script src="js/rules/MonsterAI.js"></script>
+    <script src="js/rules/CombatEngine.js"></script>
+    <script src="js/rules/SpellRules.js"></script>
+    <script src="js/rules/TurnUndeadRules.js"></script>
+    <script src="js/rules/ExperienceRules.js"></script>
+    <script src="js/rules/TownRules.js"></script>
+    <script src="js/rules/ExplorationRules.js"></script>
+    <script src="js/tests/testRunner.js"></script>
+    <script src="js/tests/core.test.js"></script>
+    <script src="js/tests/character.test.js"></script>
+    <script src="js/tests/rules.test.js"></script>
+    <script>
+        /**
+         * Runs every suite and writes the results into the page.
+         * @returns {void}
+         */
+        function showResults() {
+            const results = FD.Tests.Runner.run();
+            const out = document.getElementById('results');
+            let suite = '';
+            let passed = 0;
+            for (const r of results) {
+                if (r.suite !== suite) {
+                    suite = r.suite;
+                    const h = document.createElement('h2');
+                    h.className = 'suite-name';
+                    h.textContent = suite;
+                    out.appendChild(h);
+                }
+                const div = document.createElement('div');
+                div.className = 'result ' + (r.passed ? 'pass' : 'fail');
+                div.textContent = (r.passed ? '✓ ' : '✗ ') + r.name + (r.passed ? '' : ' — ' + r.error);
+                out.appendChild(div);
+                if (r.passed) {
+                    passed++;
+                }
+            }
+            const summary = document.getElementById('summary');
+            summary.textContent = passed + ' / ' + results.length + ' passed';
+            summary.className = 'summary ' + (passed === results.length ? 'good' : 'danger');
+        }
+        showResults();
+    </script>
+</body>
+</html>
